@@ -6,6 +6,6 @@
                 "GitHub.copilot"
             ]        
         }
-    }
-    
+    },
+    "postCreateCommand": "bash -i -c 'npm install -g nodemon'"    
 }
